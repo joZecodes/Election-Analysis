@@ -21,9 +21,9 @@ total_votes = 0
 candidate_options = []
 
 #Declare the empty dictionary.
-candidate_votes = {'Charles Casper Stockham': total_votes,
-                    'Diana DeGette': total_votes,
-                    'Raymon Anthony Doane': total_votes}
+# candidate_votes = {'Charles Casper Stockham': total_votes,
+#                     'Diana DeGette': total_votes,
+#                     'Raymon Anthony Doane': total_votes}
 
 #Winning Candidate and Winning Count Tracker
 winning_candidate = ""
